@@ -1,5 +1,5 @@
 /**
- *  This class provides methods to access to PocketComputer of ComputerCraft.
+ *  This class provides some methods to access to PocketComputer of ComputerCraft.
  *  These methods are NOT official method.
  */
 
@@ -15,7 +15,7 @@ public class PocketComputerAccess {
 	private static final String METHOD_NAME_QUEUE_EVENT = "queueEvent";
 
 	/**
-	 * Causes an event to a Pocket Computer.<br>
+	 * Causes an event to a Pocket Computer.
 	 * @param world     An World instance.
 	 * @param itemStack An ItemStack instance of ItemPocketComputer.
 	 * @param event     A string identifying the type of event.
@@ -80,7 +80,7 @@ public class PocketComputerAccess {
 	}
 
 	/**
-	 * Causes an event to a Pocket Computer.<br>
+	 * Causes an event to a Pocket Computer.
 	 * @param world     An World instance.
 	 * @param itemStack An ItemStack instance of ItemPocketComputer.
 	 * @param event     A string identifying the type of event.
