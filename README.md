@@ -1,1 +1,2 @@
 # PocketComputerAccess
+[LICENSE](LICENSE)
